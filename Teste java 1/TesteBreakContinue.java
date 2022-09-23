@@ -9,8 +9,8 @@ public class TesteBreakContinue {
             if  (numero == 6)
             System.out.println(numero + "ALERTA!!!..");
                 continue;
-      //      System.out.println(numero);
-        }
+                
+        }//System.out.println(numero);
     }
     
 }
